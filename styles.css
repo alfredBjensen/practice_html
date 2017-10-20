@@ -1,6 +1,12 @@
 *{
   margin:0;
   padding:0;
+<<<<<<< HEAD
+  font-size: 100%;
+}
+.invisible-section{
+  display: none;
+=======
   font-size:100%;
 }
 
@@ -12,4 +18,5 @@
 .example-section{
   border:1px solid silver;
   padding:1em;
+>>>>>>> 7d6672f6984b0877a264291ffe5edbce6f6c0392
 }
