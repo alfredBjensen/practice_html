@@ -3,10 +3,15 @@ $( document ).ready(function(){
     //all code will go here
     showSection();
 
+    showSectionArticle();
 
 
 });
 
+
+function showSectionArticle(){
+  $("#exampleArticle").delay(2000).fadeIn(1000);
+}
 
 
 function showSection(){
